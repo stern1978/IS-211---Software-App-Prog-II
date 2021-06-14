@@ -1,2 +1,3 @@
 # IS-211---Software-App-Prog-II
  CUNY SPS Class
+This second course in programming further develops the skills gained in Software Application Programming 1 by incorporating object-oriented programming calls into functional and procedural code. Design is discussed in depth, and students are introduced to Graphical User Interface (GUI) applications and arrays. Additional programming topics include file input/output, inheritance, polymorphism, text processing, and wrapper classes. For the final project, students will create and present a working and deployed application that adheres to coding best practices and includes complete documentation.
